@@ -7,7 +7,7 @@ Contains :
 
 You can go directly into cats_dogs_starter folder to find both files for matlab. 
 The beginning code: Success
-	final__start_.m 
+	final_project_start_.m 
 
 The project itself: Success
 	smunguia2016_Project.m  <-- Run this to achieve results
